@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ACF Multisite Sync\n"
+"POT-Creation-Date: 2014-07-15 10:30+0100\n"
+"PO-Revision-Date: 2014-07-15 10:31+0100\n"
+"Last-Translator: Philipp Kühn <kontakt@philipp-kuehn.com>\n"
+"Language-Team: Philipp Kühn <kontakt@philipp-kuehn.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.6\n"
+"X-Poedit-Basepath: ./\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: acf-multisite-sync.php:103
+msgid "Compatibility Error"
+msgstr "ACF MultiSite Sync only works with Advanced Custom Fields Pro 5.0+."
+
+#: acf-multisite-sync.php:111
+msgid "Multisite Error"
+msgstr "ACF MultiSite Sync only works on multisite installations."
+
+#: acf-multisite-sync.php:119
+msgid "Mainsite Error"
+msgstr "ACF MultiSite Sync only works on your main site."
+
+#: acf-multisite-sync.php:128 acf-multisite-sync.php:129
+#: acf-multisite-sync.php:140
+msgid "Multisite"
+msgstr "Multisite"
+
+#: acf-multisite-sync.php:148
+msgid "Copied all"
+msgstr "All fieldgroups successfully copied"
+
+#: acf-multisite-sync.php:155
+msgid "Headline-1"
+msgstr "Copy all field groups to all of your multisite installations"
+
+#: acf-multisite-sync.php:159
+msgid "Description-1"
+msgstr ""
+"This plugin does nothing else than to use the internal export function of "
+"ACF to filter the data from your main page. After that all field groups of "
+"your subpage will be deleted and re-imported. So it's more of a hack than a "
+"real sync."
+
+#: acf-multisite-sync.php:160
+msgid "Description-2"
+msgstr ""
+"This has the consequence that the ID integer of your posts shoots pretty in "
+"height with frequent use. But that doesn't really matter I think."
+
+#: acf-multisite-sync.php:161
+msgid "Sync Button"
+msgstr "Copy now"

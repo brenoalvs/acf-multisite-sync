@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ACF Multisite Sync\n"
+"POT-Creation-Date: 2014-07-15 10:30+0100\n"
+"PO-Revision-Date: 2014-07-15 10:30+0100\n"
+"Last-Translator: Philipp Kühn <kontakt@philipp-kuehn.com>\n"
+"Language-Team: Philipp Kühn <kontakt@philipp-kuehn.com>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.6\n"
+"X-Poedit-Basepath: ./\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: acf-multisite-sync.php:103
+msgid "Compatibility Error"
+msgstr ""
+"ACF Multisite Sync funktioniert nur mit Advanced Custom Fields Pro 5.0+."
+
+#: acf-multisite-sync.php:111
+msgid "Multisite Error"
+msgstr "ACF Multisite Sync funktioniert nur auf Multisite Installationen."
+
+#: acf-multisite-sync.php:119
+msgid "Mainsite Error"
+msgstr "ACF Multisite Sync funktioniert nur von deiner primären Multisite."
+
+#: acf-multisite-sync.php:128 acf-multisite-sync.php:129
+#: acf-multisite-sync.php:140
+msgid "Multisite"
+msgstr "Multisite"
+
+#: acf-multisite-sync.php:148
+msgid "Copied all"
+msgstr "Alle Feldgruppen erfolgreich kopiert"
+
+#: acf-multisite-sync.php:155
+msgid "Headline-1"
+msgstr "Alle Felder-Gruppen auf alle Seiten kopieren"
+
+#: acf-multisite-sync.php:159
+msgid "Description-1"
+msgstr ""
+"Letztendlich wird nichts anderes gemacht, als die interne Exportfunktion von "
+"ACF zu nutzen, um die Daten aus der Hauptseite zu filtern. Danach werden "
+"alle Felder-Gruppen auf den Unterseiten gelöscht und die Daten neu "
+"importiert. Also eher hacky als ein wirklicher Sync."
+
+#: acf-multisite-sync.php:160
+msgid "Description-2"
+msgstr ""
+"Dies hat übrigens zur Folge, dass auf den Unterseiten der ID-Integer der "
+"Posts ziemlich in die Höhe schießt beim häufigen Nutzen, aber eigentlich ist "
+"das auch ziemlich egal, glaube ich."
+
+#: acf-multisite-sync.php:161
+msgid "Sync Button"
+msgstr "Jetzt kopieren"
