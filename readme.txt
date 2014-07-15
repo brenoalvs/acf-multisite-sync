@@ -1,4 +1,4 @@
-﻿=== ACF Multisite Sync ===
+﻿=== Advanced Custom Fields: Multisite Sync ===
 Contributors: philippkuehn
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=R8543KFNL7NR8
 Tags: acf, advanced custom fields, advanced, custom, fields, multisite, sync
